@@ -26,5 +26,5 @@ and then:
 --------------------------------------------------------------------
 ### ScreenShot
 
-![](https://github.com/ALIILAPRO/)
-![](https://github.com/ALIILAPRO/)
+![](https://github.com/ALIILAPRO/cloudflare-gui-warp/blob/main/ScreenShot/connect.png)
+![](https://github.com/ALIILAPRO/cloudflare-gui-warp/blob/main/ScreenShot/disconnect.png)
