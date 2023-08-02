@@ -22,9 +22,10 @@ and then:
 1. Download python and install in your system. [Python +3.10](https://www.python.org/downloads/)
 2. Clone the git  `git clone https://github.com/ALIILAPRO/cloudflare-gui-warp`
 3. Open Folder    `cd cloudflare-gui-warp`
-8. Run script     `python warp-GUI.py`
+8. Run script     `python warp-GUI.py` or `python3 warp-GUI.py`
 --------------------------------------------------------------------
 ### ScreenShot
 
+![](https://github.com/ALIILAPRO/cloudflare-gui-warp/blob/main/ScreenShot/betav2.png)
 ![](https://github.com/ALIILAPRO/cloudflare-gui-warp/blob/main/ScreenShot/connect.png)
 ![](https://github.com/ALIILAPRO/cloudflare-gui-warp/blob/main/ScreenShot/disconnect.png)
